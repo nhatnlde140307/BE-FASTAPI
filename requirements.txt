@@ -11,4 +11,3 @@ openai==1.50.2
 httpx==0.27.2
 httpcore==1.0.5
 
-tensorflow-metal==1.1.0
