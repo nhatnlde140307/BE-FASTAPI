@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+
+# Node & Python envs
+node_modules/
+venv/
+
+# VSCode settings (tuỳ)
+.vscode/
+
+# Log files
+*.log
